@@ -24,13 +24,14 @@ Null.
 
 == Screenshots ==
 
-Null.
+Watch a demo here:
+http://blog.sunshow.net/archives/367.html
 
 == A Example ==
 
-<runcode>
-<script>
+&lt;runcode&gt;
+&lt;script&gt;
 window.alert("Hello world!");
-</script>
-<p>You can change the code before run.</p>
-</runcode>
+&lt;/script&gt;
+&lt;p&gt;You can change the code before run.&lt;/p&gt;
+&lt;/runcode&gt;
