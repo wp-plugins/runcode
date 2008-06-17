@@ -4,7 +4,7 @@ Donate link: http://blog.sunshow.net/archives/367.html
 Tags: code
 Requires at least: 2.0.2
 Tested up to: 2.5.1
-Stable tag: 0.8
+Stable tag: trunk
 
 A plugin for WordPress, which can be used to show your code.
 
