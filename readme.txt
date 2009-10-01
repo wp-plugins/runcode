@@ -25,7 +25,7 @@ Null.
 == Screenshots ==
 
 Watch a demo here:
-http://blog.sunshow.net/archives/367.html
+http://blog.sunshow.net/2007/03/wordpress-runcode-plugin/
 
 == A Example ==
 
