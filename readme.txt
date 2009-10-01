@@ -6,11 +6,11 @@ Requires at least: 2.0.2
 Tested up to: 2.8.4
 Stable tag: 1.0.1
 
-A plugin for WordPress, which can be used to show your code.
+A plugin for WordPress, which can be used to show your code and run html,css,javascript code in a textarea.
 
 == Description ==
 
-A plugin for WordPress, which can be used to show your code.
+A plugin for WordPress, which can be used to show your code and run html,css,javascript code in a textarea.
 
 == Installation ==
 
