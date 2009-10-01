@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: Sunshow
-Donate link: http://blog.sunshow.net/archives/367.html
+Donate link: http://blog.sunshow.net/2007/03/wordpress-runcode-plugin/
 Tags: code
 Requires at least: 2.0.2
-Tested up to: 2.6
-Stable tag: 1.0
+Tested up to: 2.8.4
+Stable tag: 1.0.1
 
 A plugin for WordPress, which can be used to show your code.
 
@@ -37,6 +37,8 @@ window.alert("Hello world!");
 &lt;/runcode&gt;
 
 == Change Log ==
+v1.0.1
+Fix the wrong archive.
 
 v1.0
 Add multi-language support.
