@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RunCode\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sunshow <sunshow@gmail.com>\n"
+"Language-Team: Sunshow <sunshow@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Run"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Save As..."
+msgstr ""
+
+msgid "Tips:You can change the code before run."
+msgstr ""
+
+msgid "Because of security policy reasons, this feature has been banned by your browser.Close this window, and press \"Ctrl+C\" to copy the code."
+msgstr ""
